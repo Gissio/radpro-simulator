@@ -1,4 +1,4 @@
-[![Rad Pro Simulator - Try me!](docs/img/radpro-title-tryme.png)](https://gissio.github.io/radpro-simulator/)
+[![Rad Pro Simulator - Try me!](radpro-title-tryme.png)](https://gissio.github.io/radpro-simulator/)
 
 Try the [Rad Pro simulator](https://gissio.github.io/radpro-simulator/)!
 
